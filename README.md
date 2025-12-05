@@ -74,7 +74,7 @@ c2 = Container(20.0)
 
 c1.connect(c2)
 
-c1.add_water(10.0)  # Both now have 20.0
+c1.add_water(10.0)  
 
 c1.disconnect(c2)
 ```
